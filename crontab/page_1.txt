@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.indianfunpic.com/xmlrpc.php" />
+
+<!-- BEGIN Metadata added by the Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="#1 Latest Indian Funny Images Hosting Website" />
+<meta name="keywords" content="amazing images, arts &amp; paintings, baby pics, bollywood, cartoons, celebrity, comedy nights with kapil funny pics, cool pics, culture, facebook wall/post, festivals, funny advertisment, funny peoples, funny pictures, funny places, funny quotes, funny video, holi, jokes, misc pics, motivational, nature, old funny pics, pet-animals, political, religious pics, sports, temple, unseen pics, valentine s day special" />
+<!-- END Metadata added by the Add-Meta-Tags WordPress plugin -->
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.4 - http://yoast.com/wordpress/seo/ -->
+<title>Indian Fun Pic - Indian Funny Pictures, Photos, Hindi Funny Pics Humor Images</title>
+<meta name="description" content="Daily Latest Indian Funny Photos Images Of People, Politics, Celebs For Facebook Sharing With Desi Quotes/Comments, Humor Pictures @IndianFunPic .Com"/>
+<link rel="canonical" href="http://www.indianfunpic.com/" />
+<link rel="next" href="http://www.indianfunpic.com/page/2/" />
+<meta property='og:locale' content='en_US'/>
+<meta property='og:title' content='Indian Fun Pic - Indian Funny Pictures, Photos, Hindi Funny Pics Humor Images'/>
+<meta property='og:description' content='Daily Latest Indian Funny Photos Images Of People, Politics, Celebs For Facebook Sharing With Desi Quotes/Comments, Humor Pictures @IndianFunPic .Com'/>
+<meta property='og:url' content='http://www.indianfunpic.com/'/>
+<meta property='og:site_name' content='IndianFunPic.com'/>
+<meta property='og:type' content='website'/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" title="IndianFunPic.com &raquo; Feed" href="http://www.indianfunpic.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IndianFunPic.com &raquo; Comments Feed" href="http://www.indianfunpic.com/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.indianfunpic.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='social_comments_rtl-css'  href='http://www.indianfunpic.com/wp-content/plugins/social-comments/assets/css/social_comments.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mosaic-skeleton-css'  href='http://www.indianfunpic.com/wp-content/themes/mosaic/skeleton.css?ver=1.7' type='text/css' media='screen, projection' />
+<link rel='stylesheet' id='mosaic-style-css'  href='http://www.indianfunpic.com/wp-content/themes/mosaic/style.css?ver=1.7' type='text/css' media='screen, projection' />
+<link rel='stylesheet' id='mosaic-superfish-css'  href='http://www.indianfunpic.com/wp-content/themes/mosaic/superfish.css?ver=1.7' type='text/css' media='screen, projection' />
+<link rel='stylesheet' id='mosaic-layout-css'  href='http://www.indianfunpic.com/wp-content/themes/mosaic/layout.css?ver=1.7' type='text/css' media='screen, projection' />
+<link rel='stylesheet' id='sedlex_styles-css'  href='http://www.indianfunpic.com/wp-content/sedlex/inline_styles/296ed5a19a64bf1bb1f6fc31198f5c27cd406b02.css?ver=20160614' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.indianfunpic.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.indianfunpic.com/wp-content/sedlex/inline_scripts/a6996768533db6c9703b04ef0cf70e39d2fb9e83.js?ver=20160614'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.indianfunpic.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.indianfunpic.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+<style type="text/css" id="custom-css">body {background-color: #ffffff}#header {background: #F5F5F5 url(/images/qsbk/header-footer-bg.png) repeat top left scroll}#footer {background: #F5F5F5 url(/images/qsbk/header-footer-bg.png) repeat top left scroll}a, a:link, a:visited, a:active, #content .gist .gist-file .gist-meta a:visited, .entry-title a:hover{color:#62A6E4;}.page-navigation .current, .page-navigation a:hover {background-color: #62A6E4; border-color: #62A6E4; }body{color:#575757;font:normal 15px georgia;line-height:150%}#site-title a{color:#696969;font:normal 40px georgia}#header span.site-desc{color:#949494;font:normal 15px georgia}#navigation ul li a{color:#62A6E4;font:normal 16px georgia}#navigation {border-color:#62A6E4}#navigation ul li.active > a, #navigation ul li.active > a:hover {background:#62A6E4}.entry-title, .entry-title a{color:#505050;font:normal 30px georgia}.entry-meta, .entry-meta span{color:#8a8888;font:normal 12px georgia}.entry-utility, .entry-utility span{color:#8a8888;font:normal 12px georgia}.widget-title{;font:normal 18px georgia}body {}</style>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<style type="text/css">
+.a-stats {
+	width: auto;
+}
+.a-stats a {
+	background: #7CA821;
+	background-image:-moz-linear-gradient(0% 100% 90deg,#5F8E14,#7CA821);
+	background-image:-webkit-gradient(linear,0% 0,0% 100%,from(#7CA821),to(#5F8E14));
+	border: 1px solid #5F8E14;
+	border-radius:3px;
+	color: #CFEA93;
+	cursor: pointer;
+	display: block;
+	font-weight: normal;
+	height: 100%;
+	-moz-border-radius:3px;
+	padding: 7px 0 8px;
+	text-align: center;
+	text-decoration: none;
+	-webkit-border-radius:3px;
+	width: 100%;
+}
+.a-stats a:hover {
+	text-decoration: none;
+	background-image:-moz-linear-gradient(0% 100% 90deg,#6F9C1B,#659417);
+	background-image:-webkit-gradient(linear,0% 0,0% 100%,from(#659417),to(#6F9C1B));
+}
+.a-stats .count {
+	color: #FFF;
+	display: block;
+	font-size: 15px;
+	line-height: 16px;
+	padding: 0 13px;
+	white-space: nowrap;
+}
+</style>
+
+</head>
+
+<body class="home blog right-sidebar">
+<div id="header"><div class="inner container"><div id="logo"><h1 id="site-title"><a href="http://www.indianfunpic.com/" title="IndianFunPic.com"><img src="/images/qsbk/Indian-Fun-Pic.jpg" alt="IndianFunPic.com" /></a></h1>
+</div><div id="header-extras"><div class="widget-content"> 			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- IFP new 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2291758308437408"
+     data-ad-slot="1892774761"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div></div></div></div><!--/#header--><div id="navigation"><div class="inner container"><div class="menu"><ul id="menu-main-menu" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://www.indianfunpic.com/amazing-images/">Amazing Images</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://www.indianfunpic.com/baby-pics/">Baby Pics</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29"><a href="http://www.indianfunpic.com/bollywood/">Bollywood</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="http://www.indianfunpic.com/cartoons/">Cartoons</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="http://www.indianfunpic.com/cool-pics/">Cool Pics</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34"><a href="http://www.indianfunpic.com/funny-peoples/">Funny Peoples</a></li>
+<li id="menu-item-4337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4337"><a href="http://www.indianfunpic.com/funny-video/">Funny Video</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://www.indianfunpic.com/funny-places/">Funny Places</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36"><a href="http://www.indianfunpic.com/funny-quotes/">Funny Quotes</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="http://www.indianfunpic.com/old-funny-pics/">Old Funny Pics</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41"><a href="http://www.indianfunpic.com/pet-animals/">Pet-Animals</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="http://www.indianfunpic.com/religious-pics/">Religious Pics</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="http://www.indianfunpic.com/sports/">Sports</a></li>
+<li id="menu-item-2601" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2601"><a href="http://www.indianfunpic.com/comedy-nights-with-kapil-funny-pictures/">Comedy Nights With Kapil Funny Pics</a></li>
+</ul></div><div class="select-menu"><select><option value="">Select a page</option><option value="http://www.indianfunpic.com/amazing-images/">Amazing Images</option>
+<option value="http://www.indianfunpic.com/baby-pics/">Baby Pics</option>
+<option value="http://www.indianfunpic.com/bollywood/">Bollywood</option>
+<option value="http://www.indianfunpic.com/cartoons/">Cartoons</option>
+<option value="http://www.indianfunpic.com/cool-pics/">Cool Pics</option>
+<option value="http://www.indianfunpic.com/funny-peoples/">Funny Peoples</option>
+<option value="http://www.indianfunpic.com/funny-video/">Funny Video</option>
+<option value="http://www.indianfunpic.com/funny-places/">Funny Places</option>
+<option value="http://www.indianfunpic.com/funny-quotes/">Funny Quotes</option>
+<option value="http://www.indianfunpic.com/old-funny-pics/">Old Funny Pics</option>
+<option value="http://www.indianfunpic.com/pet-animals/">Pet-Animals</option>
+<option value="http://www.indianfunpic.com/religious-pics/">Religious Pics</option>
+<option value="http://www.indianfunpic.com/sports/">Sports</option>
+<option value="http://www.indianfunpic.com/comedy-nights-with-kapil-funny-pictures/">Comedy Nights With Kapil Funny Pics</option>
+</select></div></div></div><!--/#navigation-->	
+<div id="wrap" class="container"> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- IFP new 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2291758308437408"
+     data-ad-slot="1892774761"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+	<div id="content-sidebar-wrap">
+		<a id="top"></a>
+	<div id="content" class="eleven columns">
+	
+
+
+
+			<div id="post-4403" class="post-4403 post type-post status-publish format-standard hentry category-bollywood">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/bollywood-actress-photos-without-makeup/" title="Permalink to Bollywood actress photos without makeup" rel="bookmark">Bollywood actress photos without makeup</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/bollywood-actress-photos-without-makeup/" title="10:24 am" rel="bookmark">June 6, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/bollywood-actress-photos-without-makeup/#respond" title="Comment on Bollywood actress photos without makeup">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p><a href="/images/qsbk/Bollywood-Actress-Photos-Without-Makeup.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4404" alt="Bollywood-Actress-Photos-Without-Makeup" src="/images/qsbk/Bollywood-Actress-Photos-Without-Makeup-640x426.jpg"  width="640" height="426" /></a></p>
+<p style="text-align: center;"><a href="/images/qsbk/Priyanka-chopra-without-makeup-and-with-makeup.jpg" class="gallery_colorbox"><img class="aligncenter  wp-image-4421" alt="Priyanka chopra without makeup and with makeup" src="/images/qsbk/Priyanka-chopra-without-makeup-and-with-makeup.jpg"  width="640" height="426" /></a></p>
+<p style="text-align: center;"><a href="/images/qsbk/parineeti-chopra-without-makeup-and-with-makeup.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-4422" alt="parineeti chopra without makeup and with makeup" src="/images/qsbk/parineeti-chopra-without-makeup-and-with-makeup.jpg"  width="639" height="498" /></a></p>
+<p style="text-align: center;"><a href="/images/qsbk/Aishwarya-rai-without-makeup-and-with-makeup.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4425" alt="Aishwarya rai  without makeup and with makeup" src="/images/qsbk/Aishwarya-rai-without-makeup-and-with-makeup-640x483.jpg"  width="640" height="483" /></a></p>
+<p style="text-align: center;"><a href="/images/qsbk/sonakshi-sinha-without-makeup-and-with-makeup.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4423" alt="sonakshi sinha without makeup and with makeup" src="/images/qsbk/sonakshi-sinha-without-makeup-and-with-makeup-640x360.jpg"  width="640" height="360" /></a></p>
+<p>Bollywood actress photos without any clothes &#8211; bollywood actor photos without makeup &#8211; tollywood actress photos without makeup &#8211; bollywood actress without dress photos -bollywood actress photos free download</p>
+<p>&nbsp;</p>
+<p>Cumming search</p>
+<p><span style="color: #cc99ff;">* Bollywood Actress With No Teeth Funny</span><br />
+<span style="color: #cc99ff;"> * Bald Celebrities Funny Bollywood</span><br />
+<span style="color: #cc99ff;"> * Bald Girls Indian Actress Funny</span><br />
+<span style="color: #cc99ff;"> * Indian Actress Without Makeup</span><br />
+<span style="color: #cc99ff;"> * Celebrity Smile Of Indian Actress</span><br />
+<span style="color: #cc99ff;"> * Actors Of Bollywood Funny Photos</span><br />
+<span style="color: #cc99ff;"> * Funny Bollywood Celebrities Childhood</span><br />
+<span style="color: #cc99ff;"> * Funny Bollywood Actors in Girls Dress</span><br />
+<span style="color: #cc99ff;"> * Actress in Saree on Indianfunpic.com</span><br />
+<span style="color: #cc99ff;"> * Chinese Girl Funny Makeup Art</span><br />
+<span style="color: #cc99ff;"> * Funny Bollywood Celebrities Childhood</span><br />
+<span style="color: #cc99ff;"> * Funny Bollywood Actors in Girls Dress</span></p>
+<p>&nbsp;</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/kings-xi-punjab-kolkata-knight-riders-preity-zinta-shahrukh-khan-funny-pic/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/10351180_702636553131411_7056956866728290987_n-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Kings XI Punjab &amp; kolkata Knight Riders - Preity Zinta &amp; Shahrukh Khan Funny Pic</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/rahul-gandhi-sunny-leone-funny-pic/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/10447554_1447646075513363_594576440776452774_n-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Rahul Gandhi - Sunny Leone Funny Pic</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/change-generation-save-girl-funny-pic/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Generation-Change-Save-Girl4-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Change Generation - Save Girl Funny Pic</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/bollywood/" title="View all posts in Bollywood" rel="category tag">Bollywood</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4396" class="post-4396 post type-post status-publish format-standard hentry category-funny-quotes">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/latest-funny-images-on-facebook-whatsapp/" title="Permalink to Latest funny images on Facebook &amp; Whatsapp" rel="bookmark">Latest funny images on Facebook &#038; Whatsapp</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/latest-funny-images-on-facebook-whatsapp/" title="9:46 am" rel="bookmark">June 3, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/latest-funny-images-on-facebook-whatsapp/#respond" title="Comment on Latest funny images on Facebook &amp; Whatsapp">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p><a href="/images/qsbk/funny-images1.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4397" alt="funny images" src="/images/qsbk/funny-images1-640x619.jpg"  width="640" height="619" /></a></p>
+<p style="text-align: center;"> <a href="/images/qsbk/funny-jokes.jpg" class="gallery_colorbox"><img class="aligncenter  wp-image-4401" alt="funny jokes" src="/images/qsbk/funny-jokes.jpg"  width="600" height="395" /></a></p>
+<p>Latest Funny Jokes on Facebook &#8211; funny images comics &#8211; joke image gallery &#8211; funny shayari in hindi images download &#8211; funny images in hindi for whatsapp</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/that-awkward-moment/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/That-awkward-moment...-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">That awkward moment...</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/work-and-play-so-true-story/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/work-and-play..-so-true-story-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Work and play.. so true story</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/double-standards-meaning/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/double-standards1-150x150.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Double Standards Meaning</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/funny-quotes/" title="View all posts in Funny Quotes" rel="category tag">Funny Quotes</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4391" class="post-4391 post type-post status-publish format-standard hentry category-pet-animals">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/funny-dog-images-free-download-on-indianfunpic/" title="Permalink to Funny Dog images free download on indianfunpic" rel="bookmark">Funny Dog images free download on indianfunpic</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/funny-dog-images-free-download-on-indianfunpic/" title="9:15 am" rel="bookmark">June 2, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/funny-dog-images-free-download-on-indianfunpic/#respond" title="Comment on Funny Dog images free download on indianfunpic">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p><a href="/images/qsbk/Funny-dog-images.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4392" alt="Funny dog images" src="/images/qsbk/Funny-dog-images-640x480.jpg"  width="640" height="480" /></a></p>
+<p>&nbsp;</p>
+<p>Funny dog images with captions &#8211; funny images free download for whatsapp &#8211; funny images free download for mobile &#8211; free download funny images for facebook &#8211; funny images free download for pc</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/funny-horse-images/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/funny-horse-images1-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Funny Horse Images</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/llama-haircuts-pics-llama-funny-haircuts-pic/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/llama-haircuts-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">llama Haircuts Pics - llama Funny Haircuts Pic</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/cat-on-tree-funny-images-indian-fun-pic/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Funny-cat-150x150.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Cat on tree Funny images - Indian fun pic</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/pet-animals/" title="View all posts in Pet-Animals" rel="category tag">Pet-Animals</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4388" class="post-4388 post type-post status-publish format-standard hentry category-facebook-wallpost">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/funny-facebook-images-on-indian-fun-pic/" title="Permalink to Funny facebook images on indian fun pic" rel="bookmark">Funny facebook images on indian fun pic</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/funny-facebook-images-on-indian-fun-pic/" title="8:41 am" rel="bookmark">June 1, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/funny-facebook-images-on-indian-fun-pic/#respond" title="Comment on Funny facebook images on indian fun pic">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p><a href="/images/qsbk/funny-images.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-4389" alt="funny images" src="/images/qsbk/funny-images.jpg"  width="600" height="521" /></a></p>
+<p>Funny facebook image comments &#8211; funny facebook images download &#8211; funny facebook images and quotes &#8211; funny facebook images to share &#8211; funny facebook images status</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/jamaila-babu-bhai-funny-images-for-facebook-status/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Jamayela-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Jamaila babu bhai - funny images for facebook status</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/bahut-achha-hai-rajinikanth-funny-pictures-for-facebook-comments-in-hindi/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.indianfunpic.com/wp-content/uploads/2013/07/Bahut-Achha-hai-Rajni-Kanth-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Bahut Achha hai, Rajinikanth - funny pictures for facebook comments in hindi</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/wooh-dekho-chutiyaa-funny-indian-status-for-facebook/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Wooh-Dekho-Chutiyaa-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Wooh Dekho Chutiyaa - funny indian status for facebook</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/facebook-wallpost/" title="View all posts in Facebook Wall/Post" rel="category tag">Facebook Wall/Post</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4372" class="post-4372 post type-post status-publish format-standard hentry category-motivational">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/motivational-quotes-from-abdul-kalam-on-students/" title="Permalink to Motivational Quotes from Abdul Kalam on Students" rel="bookmark">Motivational Quotes from Abdul Kalam on Students</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/motivational-quotes-from-abdul-kalam-on-students/" title="5:20 am" rel="bookmark">May 31, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/motivational-quotes-from-abdul-kalam-on-students/#respond" title="Comment on Motivational Quotes from Abdul Kalam on Students">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p>1. Failure will never overtake me if my determination to succeed is strong enough.</p>
+<p><a href="/images/qsbk/Quotefancy-37221-3840x2160.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4375" alt="Quotefancy-37221-3840x2160" src="/images/qsbk/Quotefancy-37221-3840x2160-640x360.jpg"  width="640" height="360" /></a></p>
+<p>&nbsp;</p>
+<p>2. “Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.” &#8211; A.P.J Abdul Kalam</p>
+<p>&nbsp;</p>
+<p><a href="/images/qsbk/Apj.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4376" alt="Apj" src="/images/qsbk/Apj-640x387.jpg"  width="640" height="387" /></a></p>
+<p>3. “All Birds find shelter during a rain. But Eagle avoids rain by flying above the Clouds.” &#8211; A.P.J Abdul Kalam</p>
+<p><a href="/images/qsbk/APj-kalam.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-4377" alt="APj kalam" src="/images/qsbk/APj-kalam.jpg"  width="600" height="500" /></a></p>
+<p>&nbsp;</p>
+<p>4. “Man needs difficulties in life because they are necessary to enjoy the success.” &#8211; A.P.J Abdul Kalam</p>
+<p><a href="/images/qsbk/wpid-fb_img_1438050879436.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-4378" alt="wpid-fb_img_1438050879436" src="/images/qsbk/wpid-fb_img_1438050879436.jpg"  width="600" height="370" /></a></p>
+<p>5. “If you want to shine like a sun. First burn like a sun.” &#8211; A.P.J Abdul Kalam <strong><em> </em></strong></p>
+<p><a href="/images/qsbk/apj-1.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4379" alt="apj 1" src="/images/qsbk/apj-1-640x387.jpg"  width="640" height="387" /></a></p>
+<p>6. &#8220;All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents.” &#8211; A.P.J Abdul Kalam<strong><em> </em></strong></p>
+<p>&nbsp;</p>
+<p><a href="/images/qsbk/apj-3.png" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4380" alt="apj 3" src="/images/qsbk/apj-3-640x355.png"  width="640" height="355" /></a></p>
+<p>7. &#8221; Be more dedicated to making solid achievements than in running after swift but synthetic happiness.&#8221; -A.P.J Abdul Kalam<strong><em> </em></strong></p>
+<p><a href="/images/qsbk/apj-4.png" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4381" alt="apj 4" src="/images/qsbk/apj-4-640x355.png"  width="640" height="355" /></a></p>
+<p>&nbsp;</p>
+<p>8. &#8220;Thinking should become your capital asset, no matter whatever ups and downs you come across in your life.&#8221;  - A.P.J Abdul Kalam<strong><em> </em></strong></p>
+<p>&nbsp;</p>
+<p><a href="/images/qsbk/apj-5.jpg" class="gallery_colorbox"><img class="aligncenter size-large wp-image-4382" alt="apj 5" src="/images/qsbk/apj-5-640x397.jpg"  width="640" height="397" /></a></p>
+<p>9. &#8221; Without your involvement you can&#8217;t succeed. With your involvement you can&#8217;t fail. &#8221; &#8211; A.P.J Abdul Kalam</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/images/qsbk/apj-abdul-kalam-1.jpg" class="gallery_colorbox"><img class="aligncenter  wp-image-4383" alt="apj-abdul-kalam-1" src="/images/qsbk/apj-abdul-kalam-1.jpg"  width="620" height="360" /></a></p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/indian-proud-photo/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/indian-proud-photo-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">indian proud photo</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/gandhi-jayanti-whatsapp-sms-gandhi-jayanti-whatsapp-status-gandhi-jayanti-quotes/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Mahatma-Gandhi-Quotes-Gandhi-Jayanti-Wallpapers-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Gandhi Jayanti Whatsapp SMS, Gandhi Jayanti Whatsapp Status - Gandhi Jayanti Quotes</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/bitter-but-truth-funny-reservation-jokes-in-hindi/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Bitter-but-truth-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Bitter but truth -Funny Reservation jokes in hindi</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/motivational/" title="View all posts in Motivational" rel="category tag">Motivational</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4369" class="post-4369 post type-post status-publish format-standard hentry category-funny-quotes">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/funny-quotes-on-indian-fun-pic/" title="Permalink to Funny quotes on Indian Fun Pic" rel="bookmark">Funny quotes on Indian Fun Pic</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/funny-quotes-on-indian-fun-pic/" title="5:06 am" rel="bookmark">May 31, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/funny-quotes-on-indian-fun-pic/#respond" title="Comment on Funny quotes on Indian Fun Pic">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p><a href="/images/qsbk/picture.jpg" class="gallery_colorbox"><img class="aligncenter size-full wp-image-4370" alt="picture" src="/images/qsbk/picture.jpg"  width="452" height="450" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/my-reation-after-my-ffriends-get-higher-marks-after-cheating-from-me/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/my-reaction-after-my-friends-get-higher-marks-after-cheating-from-me-150x150.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">My Reation After My Ffriends Get Higher Marks After Cheating From Me</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/how-to-impress-a-girl-funny-image/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/42-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">How To Impress A Girl - Funny Image</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/funny-jokes-for-whatsapp/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/12644641_1944740559085374_3842700826940247805_n-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Funny jokes for whatsapp</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/funny-quotes/" title="View all posts in Funny Quotes" rel="category tag">Funny Quotes</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4346" class="post-4346 post type-post status-publish format-standard hentry category-funny-video">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/funny-video-of-two-brother-fighting-for-money-funny-whatsapp-video/" title="Permalink to Funny Video of Two Brother fighting for Money | Funny Whatsapp Video" rel="bookmark">Funny Video of Two Brother fighting for Money | Funny Whatsapp Video</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/funny-video-of-two-brother-fighting-for-money-funny-whatsapp-video/" title="11:53 am" rel="bookmark">May 21, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/funny-video-of-two-brother-fighting-for-money-funny-whatsapp-video/#respond" title="Comment on Funny Video of Two Brother fighting for Money | Funny Whatsapp Video">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p>Must Watch This  Funny Video of Two Little Brothers Fighting For Money.</p>
+<p style="text-align: center;"><a href="/images/qsbk/Funny-brothers.jpg" class="gallery_colorbox"><img class="aligncenter  wp-image-4350" alt="Funny-brothers" src="/images/qsbk/Funny-brothers.jpg"  width="450" height="260" /></a></p>
+<p>Click <a href="http://mastimaster.com/wp-content/uploads/2016/05/VID-20141011-WA0001.mp4?_=1">download</a> to Watch this funny Video.</p>
+<p>These 2 Brothers Start Fighting for Money | Whatsapp Funny Video | Very Funny Video of Two Little Brothers Fighting | Funny video Hits‎  | Funny Video for Whatsapp</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/indian-jugaad-ka-kamaal-funny-technology-of-jugaad-vide/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/vlcsnap-2016-05-04-15h15m58s45-150x150.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Indian Jugaad ka Kamaal |  Funny  Technology of Jugaad Vide</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/funny-video/" title="View all posts in Funny Video" rel="category tag">Funny Video</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4340" class="post-4340 post type-post status-publish format-standard hentry category-jokes">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/funny-jokes-of-lalu-yadav-best-jokes-of-lalu-prashad-yadav/" title="Permalink to Funny Jokes of Lalu Yadav | Best Jokes Of Lalu Prashad Yadav" rel="bookmark">Funny Jokes of Lalu Yadav | Best Jokes Of Lalu Prashad Yadav</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/funny-jokes-of-lalu-yadav-best-jokes-of-lalu-prashad-yadav/" title="12:06 pm" rel="bookmark">May 18, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/funny-jokes-of-lalu-yadav-best-jokes-of-lalu-prashad-yadav/#respond" title="Comment on Funny Jokes of Lalu Yadav | Best Jokes Of Lalu Prashad Yadav">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<div class="KRQuhe" style="text-align: left;">Funny SMS Jokes Collectin of Lalu Prasad Yadav in Bhojpuri and Hindi. Funny Jokes In Hindi Lalu ji&#8230;  A collection of best jokes in hindi of Lalu Prashad Yadav</div>
+<div class="KRQuhe"></div>
+<blockquote>
+<div class="KRQuhe">लालू यादव एक दूकान में,,,,!!!</div>
+<div class="KRQuhe">लालू दुकानदार से पूछे: इ बन्दरवा का photu कितने का है.?</div>
+<div class="JL" id=":3u.co">
+<div class="Mu SP" style="text-align: left;" title="2/23/16, 11:01 AM"><span class="tL8wMe xAWnQc" dir="ltr"><span class="tL8wMe xAWnQc" dir="ltr">दुकानदार चुप !</span></span></div>
+<div class="Mu SP" style="text-align: left;" title="2/23/16, 11:01 AM"><span class="tL8wMe xAWnQc" dir="ltr"><span class="tL8wMe xAWnQc" dir="ltr">Laloo again&#8230;</span></span><span class="tL8wMe xAWnQc" dir="ltr"><span class="tL8wMe xAWnQc" dir="ltr">ए दुकानदरवा, ई बन्दरवा का photu कितने का है.?</span></span></div>
+<div class="Mu SP" style="text-align: left;" title="2/23/16, 11:01 AM"><span class="tL8wMe xAWnQc" dir="ltr"><span class="tL8wMe xAWnQc" dir="ltr">दुकानदार चुप&#8230;&#8230;</span></span></div>
+<div class="Mu SP" style="text-align: left;" title="2/23/16, 11:01 AM"><span class="tL8wMe xAWnQc" dir="ltr" id=":3z.co">लालू: ससूर के कान में ठेपी लगाये हो का, बताओ ना रे ई बन्दरवा का photu कितने का है.?</span><span class="tL8wMe xAWnQc" dir="ltr" id=":3z.co"><br />
+दुकानदार-ये photo नहीं आईना है।  :-D :-p</span></div>
+</div>
+</blockquote>
+<div class="Mu SP" style="text-align: left;" title="2/23/16, 11:01 AM"></div>
+<blockquote>
+<div class="Mu SP" style="text-align: left;" title="2/23/16, 11:01 AM">
+<p>लालू यादव नहा रहे थे</p>
+<p>राबड़ी – ई का जी, बलवा<br />
+के साथे – साथे शैम्पूआ<br />
+कन्धवा पर काहे लगा रहे<br />
+हैं, एकदम पगले है का ??</p>
+<p>लालू – तु पागल, तोरा<br />
+बाप पागल, तोरा पुरा<br />
+खानदान पागल….. देखती<br />
+नहीं है शैम्पूआ पर का<br />
+लिखा है…<br />
+Head &amp; Shoulder !</p>
+</div>
+</blockquote>
+<p>&nbsp;</p>
+<blockquote><p>ओबामा (लालू से) – लालू! तुझे<br />
+स्विमिंग आती है?<br />
+लालू- ना रे !<br />
+ओबामा – शिट्ट, तेरे से<br />
+तो कुत्ता अच्छा है जो स्विम<br />
+कर लेता है।<br />
+लालू – तुमको आता है<br />
+स्विमिंगवा?<br />
+ओबामा – या! ऑफ कोर्स<br />
+आता है।<br />
+लालू – ससुरा, फिर तोहरे और<br />
+कुत्ता में फरक का है बे!!!</p></blockquote>
+<p>&nbsp;</p>
+<blockquote><p>लालू फुटबॉल मैच देख कर बोले –</p>
+<p>“ई साला, एतना सारा आदमी</p>
+<p>एक बॉल को लात क्यों मार रहा है ?”</p>
+<p>.<br />
+सेक्रेटरी – “सर, गोल करने के लिए।”<br />
+लालू – “ससुरी गोल ही तो है, और कितना गोल करेंगे”<br />
+???????</p></blockquote>
+<p>&nbsp;</p>
+<blockquote><p>मायावती एक हाथी के साथ ? लालू से मिलने गई?<br />
+लालू – “भैंसवा के साथ आये हो ??”<br />
+मायावती – “दिखता नहीं एलिफेंटवा है ?”<br />
+लालू – “धत्तत्.. पगली…!</p>
+<p>ससुरी…, हम इस एलिफैंटवा से पूछ रहा हूँ रे…!”<br />
+?????</p></blockquote>
+<p>&nbsp;</p>
+<blockquote><p>Lalu ji ek mahina obama ke pas se engish ki training lekar vaps aaye<br />
+ek din unhe ek call aaya. lalu ji bole “Who is speaking?”.<br />
+jawab aaya “Hum Sasura Obama bol raha hun”</p></blockquote>
+<p>&nbsp;</p>
+<blockquote><p>लालू – “ससुरा…, मूर्ख आदमी की बीवी बहुत सुन्दर होती है…”<br />
+राबड़ी – “आपके पास तो हमरे  तारीफ के सिवाय<br />
+कोनो कामे नहीं है जी…!”<br />
+??????</p></blockquote>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/funny-jokes-2016-on-facebook-whatsapp/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/funny-jokes-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Funny jokes 2016 on Facebook , Whatsapp </div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/student-teacher-funny-joke-in-school-picture/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/english-class-student-test-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Student Teacher funny Joke in school Picture</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/latest-funny-jokes-bank-loans-on-facebook-whatsapp/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Funny-latest-jokes-150x150.png) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">latest funny jokes bank loans on Facebook, whatsapp </div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/jokes/" title="View all posts in Jokes" rel="category tag">Jokes</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4334" class="post-4334 post type-post status-publish format-standard hentry category-funny-video">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/indian-jugaad-ka-kamaal-funny-technology-of-jugaad-vide/" title="Permalink to Indian Jugaad ka Kamaal |  Funny  Technology of Jugaad Vide" rel="bookmark">Indian Jugaad ka Kamaal |  Funny  Technology of Jugaad Vide</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/indian-jugaad-ka-kamaal-funny-technology-of-jugaad-vide/" title="11:59 am" rel="bookmark">May 18, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/indian-jugaad-ka-kamaal-funny-technology-of-jugaad-vide/#respond" title="Comment on Indian Jugaad ka Kamaal |  Funny  Technology of Jugaad Vide">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p><em><em>There is a technology Quote in India and This is &#8220;Umeed pe duniya kayam hai aur India ki umeed jugaad pe.&#8221;</em>Its something related to Hack, and Indian are really good in Jugaad Technology. <em>Every Indian knows the meaning of Jugaad.</em>  Funny Video of Indian Jugaad Ka Kamaal. Must Watch this Video.</em></p>
+<p><img class="aligncenter wp-image-1770 " alt="vlcsnap-2016-05-04-15h15m58s45" src="/images/qsbk/vlcsnap-2016-05-04-15h15m58s45.png" width="611" height="458" /></p>
+<p>Click <a href="http://mastimaster.com/wp-content/uploads/2016/05/jugaad-1.3gp">Download</a> to Watch this Funny Jugaad Video.</p>
+<p>Funny Video for Whatsapp Share | Funny  Technology of Jugaad Video | Latest Jugaad Technology ka Kamaal in India</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/funny-video-of-two-brother-fighting-for-money-funny-whatsapp-video/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/Funny-brothers-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Funny Video of Two Brother fighting for Money | Funny Whatsapp Video</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/funny-video/" title="View all posts in Funny Video" rel="category tag">Funny Video</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-4327" class="post-4327 post type-post status-publish format-standard hentry category-funny-peoples">
+			<h2 class="entry-title"><a href="http://www.indianfunpic.com/boysss-always-rocks-funny-reply-by-a-bihari-boy-to-a-girl/" title="Permalink to Boysss always rocks | Funny Reply by A Bihari Boy to a Girl" rel="bookmark">Boysss always rocks | Funny Reply by A Bihari Boy to a Girl</a></h2>
+
+			<div class="entry-meta">
+				<span class="entry-date"><a href="http://www.indianfunpic.com/boysss-always-rocks-funny-reply-by-a-bihari-boy-to-a-girl/" title="9:32 am" rel="bookmark">May 17, 2016</a></span> by <span class="author vcard"><a class="url fn n" href="http://www.indianfunpic.com/author/admin/" title="View all posts by admin">admin</a></span> <span class="comments-link"> &middot; <a href="http://www.indianfunpic.com/boysss-always-rocks-funny-reply-by-a-bihari-boy-to-a-girl/#respond" title="Comment on Boysss always rocks | Funny Reply by A Bihari Boy to a Girl">Leave a comment</a></span> 			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<p style="text-align: center;"><a href="/images/qsbk/IMG-20160228-WA0018.jpg" class="gallery_colorbox"><img class="aligncenter  wp-image-4328" alt="IMG-20160228-WA0018" src="/images/qsbk/IMG-20160228-WA0018.jpg"  width="550" height="530" /></a></p>
+<p style="text-align: left;"> Funny reply by A Bihari Boy - Funny reply by A Bihari Boy - Boysss always rocks | Funny pics for Facebook - Funny Facebook Image</p>
+<p>&nbsp;</p>
+<h3>Related posts:</h3><div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/the-best-friend/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/The-Best-Friend...-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">The Best Friend...</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/5-steeps-to-sleep-indian-student-funny-pic/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/10514474_715520778509655_1182876445125016932_n-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">5 Steeps To Sleep - Indian Student Funny Pic</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.indianfunpic.com/ek-course-jo-aapki-zindagi-badal-de-indian-fun-pic/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(/images/qsbk/17050200492296958196-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Ek Course Jo Aapki Zindagi Badal De - Indian Fun Pic</div></div></a></div><div style="clear: both"></div>			<div class="clear"></div>
+					</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				Posted in <a href="http://www.indianfunpic.com/funny-peoples/" title="View all posts in Funny Peoples" rel="category tag">Funny Peoples</a>. 			</div><!-- .entry-utility -->
+			
+		</div><!-- #post-## -->
+
+		
+	
+
+<div class="page-navigation"><span class="prev-link"></span><span class="current">1</span><a href="http://www.indianfunpic.com/page/2/">2</a><a href="http://www.indianfunpic.com/page/3/">3</a><a href="http://www.indianfunpic.com/page/4/">4</a><a href="http://www.indianfunpic.com/page/5/">5</a><a href="http://www.indianfunpic.com/page/6/">6</a><a href="http://www.indianfunpic.com/page/7/">7</a><span class="next-link"><a href="http://www.indianfunpic.com/page/2/" >next &rarr;</a></span><a class="last-page-link" href="http://www.indianfunpic.com/page/78/" title="last">last</a></div>		</div><!-- /.columns (#content) -->
+<div id="sidebar" class="five columns" role="complementary">
+	<ul>
+		<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" action="http://www.indianfunpic.com/" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+	</div>
+	</form></li><li id="nav_menu-2" class="widget-container widget_nav_menu"><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-502" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-502"><a href="http://www.indianfunpic.com/">Home</a></li>
+<li id="menu-item-503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-503"><a href="http://www.indianfunpic.com/about-us/">About us</a></li>
+<li id="menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="http://www.indianfunpic.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-505"><a href="http://www.indianfunpic.com/privacy-policy/">privacy policy</a></li>
+</ul></div></li><li id="facebook_widget-2" class="widget-container widget_facebook_widget"><h3 class="widget-title">Like Us On Facebook</h3><div id="fb-root"></div>
+        <div class="fb-like-box" data-href="https://www.facebook.com/Indianfunpic/" data-width="300" data-height="550" data-colorscheme="light" data-show-faces="1" data-header="1" data-stream="1" data-show-border="Yes" style=""></div></li>	</ul>
+
+
+
+		</div><!-- /#sidebar -->
+		<div class="clear"></div>
+	</div><!-- /#content-sidebar-wrap -->
+	
+</div><!--/#wrap.container-->
+<div class="clear"></div><div id="footer"><div class="inner container">
+<div id="widgets-wrap">
+<div class="one_fourth">
+	<div class="widget-container nav_menu-3"><div class="menu-pages-container"><ul id="menu-pages-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-502"><a href="http://www.indianfunpic.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-503"><a href="http://www.indianfunpic.com/about-us/">About us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="http://www.indianfunpic.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-505"><a href="http://www.indianfunpic.com/privacy-policy/">privacy policy</a></li>
+</ul></div></div></div>
+
+<div class="one_fourth">
+	  <div class="widget-container random-search-terms"><h3 class="widget-title">Random Search Terms</h3></div></div>
+
+<div class="one_fourth">
+	  <div class="widget-container recent-comments-3"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><a href='http://ajabgazab.com/blog/brilliant-idea-aik-teer-dou-shikaar-funny-images/' rel='external nofollow' class='url'>Brilliant idea—Aik teer dou shikaar Funny images – Ajab Gazab</a> on <a href="http://www.indianfunpic.com/brilliant-idea-aik-teer-dou-shikaar-funny-images/#comment-5325">Brilliant idea—Aik teer dou shikaar  Funny images</a></li><li class="recentcomments"><a href='http://ajabgazab.com/blog/funny-ki-bhi-had-hoti-hai-yaar/' rel='external nofollow' class='url'>Funny ki bhi had hoti hai yaar | Ajab Gazab</a> on <a href="http://www.indianfunpic.com/funny-ki-bhi-had-hoti-hai-yaar-indianfunpic-funny-post/#comment-5322">Funny ki bhi had hoti hai yaar -indianfunpic funny post</a></li></ul></div></div>
+
+<div class="one_fourth last">
+		  <div class="widget-container akismet_widget-2"><h3 class="widget-title">Spam Blocked</h3>
+	<div class="a-stats">
+		<a href="http://akismet.com" target="_blank" title=""><strong class="count">5,299 spam</strong> blocked by <strong>Akismet</strong></a>
+	</div>
+
+</div></div>
+<div class="clear"></div>
+</div>
+<div id="credits-wrap"><div id="copyright">IndianFunPic.com &copy; 2016</div><div id="credits"></div></div></div></div><!--/#footer-->
+
+
+
+<script type='text/javascript' src='http://www.indianfunpic.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.indianfunpic.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.indianfunpic.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://www.indianfunpic.com/wp-content/themes/mosaic/javascripts/app.js?ver=1.7'></script>
+<script type='text/javascript' src='http://www.indianfunpic.com/wp-content/themes/mosaic/javascripts/superfish.js?ver=1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vars = {"app_id":"240142789464310","select_lng":"en_US"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.indianfunpic.com/wp-content/plugins/facebook-pagelike-widget/fb.js?ver=3.5.1'></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39985649-1', 'indianfunpic.com');
+  ga('send', 'pageview');
+
+</script>
+
+<a href="http://www.bloglog.com/" title="Entertainment Blogs" target="_blank"><img style="border:none" src="/images/qsbk/v_54637.gif" alt="Entertainment Blogs" /></a><br /><a target="_blank" href="http://www.bloglog.com/entertainment/" style="font-size:10px;">Entertainment blogs</span></a>
+
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.565 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-06-14 06:00:28 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
